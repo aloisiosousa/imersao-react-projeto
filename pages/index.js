@@ -6,5 +6,7 @@ const Title = styled.h1 `
 `
 
 export default function Home() {
-    return <Title > Minha primeira página React.js Next.js < /Title>
+    return (
+
+    )
 }
