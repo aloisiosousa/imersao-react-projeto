@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.detectLocale": "on",
+    "editor.wordWrap": "on",
+    "editor.defaultFormatter": "formulahendry.code-runner",
+    "editor.detectIndentation": false
+}
